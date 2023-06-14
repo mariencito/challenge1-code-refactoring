@@ -1,7 +1,7 @@
 # <challenge1-code-refactoring>
 
 ## Description
-
+- Module one Homework Submission
 - I want to master HTML and CSS
 - I build onto it to fix the semantics and make the code look cleaner
 - It makes the program more readable
